@@ -47,7 +47,7 @@ function renderTableOfContents(tableOfContents){
   if(tableOfContents!=="none"){
     return(
       `## Table of Contents
-      * [Project Description](#Project Description)
+      [Project Description](#Project Description)
       `
     )
   }
